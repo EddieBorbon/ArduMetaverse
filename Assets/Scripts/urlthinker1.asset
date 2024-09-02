@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: urlthinker1
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"interactable":null},"position":{"x":-457.0,"y":-293.0},"guid":"29a7694d-9e62-42db-919e-88661b29ae29","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SpatialInteractableOnInteract","$id":"9"},{"defaultValues":{"url":{"$content":"https://www.tinkercad.com/things/bMY5nhkJWWe?sharecode=z4_BX9Uk8k1n9OBQUJwj8a9xPm6iZMRUnGUaaDEVfUY","$type":"System.String"}},"position":{"x":-200.0,"y":-277.0},"guid":"361581e5-ad87-4839-8c3d-1b513075fa0e","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.OpenURLNode","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"inputTrigger","guid":"ec399318-ef8c-4ab1-a308-a83ab77bd068","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []
